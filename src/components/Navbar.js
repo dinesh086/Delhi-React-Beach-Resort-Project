@@ -26,6 +26,7 @@ export default class Navbar extends Component {
             >
               <FaAlignRight className="nav-icon" />
             </button>
+            // adding changes to file for git hub
           </div>
           <ul
             className={this.state.isOpen ? "nav-links show-nav" : "nav-links"}
